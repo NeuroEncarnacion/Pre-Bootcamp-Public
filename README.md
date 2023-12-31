@@ -1,2 +1,2 @@
 ﻿# algorithms
-# These are a few of the algorithms that I have worked on. I will be updating this repo whenever I complete new algorithms or am practicing new algos.  
+# These are a few of the algos that I have worked on recently. I will be updating this repo whenever I complete or when I am learning new algorithms.  
