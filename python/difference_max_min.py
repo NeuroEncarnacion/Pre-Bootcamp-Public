@@ -10,4 +10,4 @@ def difference_max_min(lst):
 			min = num
 	return max - min
 
-print(difference_max_min([10,4,1,2,8,91]))
+# print(difference_max_min([10,4,1,2,8,91]))

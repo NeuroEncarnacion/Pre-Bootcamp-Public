@@ -11,4 +11,4 @@ def series_resistance(lst):
 	else:
 		return(str(total_resistance) + " ohms")
 
-print(series_resistance([10, 12, 32, 4.9, 5, 6, 71]))
+# print(series_resistance([10, 12, 32, 4.9, 5, 6, 71]))

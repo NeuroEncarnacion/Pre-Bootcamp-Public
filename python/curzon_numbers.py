@@ -10,4 +10,4 @@ def is_curzon(num):
 	else:
 		return False
 
-print(is_curzon(293))
+# print(is_curzon(293))
