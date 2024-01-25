@@ -5,6 +5,6 @@ function double(arr){
     return arr
 }
 let arr=[1,2,3,4,5]
-double(arr)
-console.log(arr) //What gets console logged here?
+// double(arr)
+console.log(arr[-1]) //What gets console logged here?
 
