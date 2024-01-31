@@ -16,4 +16,3 @@ function seriesResistance(arr) {
 }
 
 // console.log(seriesResistance([10, 12, 32, 4.9, 5, 6, 71])) ; "140.9 ohms"
-// console.log(seriesResistance([0.2, 0.3, 0.4])) ; "0.9 ohm"
