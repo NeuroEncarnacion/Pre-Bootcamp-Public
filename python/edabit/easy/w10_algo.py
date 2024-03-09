@@ -16,4 +16,6 @@ def narcissistic(val):
         print("This is not")
         # return False
     # print(x)
+
+
 narcissistic(407)
