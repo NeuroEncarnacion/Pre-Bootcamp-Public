@@ -15,7 +15,7 @@ function largestSwap(num) {
 	var temp1 = arr.pop()
 	var temp2 = arr.pop()
 	arr.push(temp1 + temp2)
-	var newNum = +arr[0]
+	var newNum =+arr[0]
 	if (newNum == num){
 		return true
 	} else if (newNum > num) {
