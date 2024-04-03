@@ -36,10 +36,4 @@ console.log(sortDrinkByPrice(drinks1))
 ]
 */
 console.log(sortDrinkByPrice(drinks2))
-/*
-[
-    { name: 'peach', price: 23 },
-    { name: 'lemonade', price: 90 },
-    { name: 'lime', price: 432 }
-]
-*/
+
