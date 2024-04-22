@@ -1,7 +1,6 @@
 // From Edabit 
 // Count and display how many values in the array is true
 function countTrue(arr) {
-    console.log(arr.length)
     var total = 0
 	for (var i = 0; i < (arr.length); i++){
         if (arr.length == 0){
